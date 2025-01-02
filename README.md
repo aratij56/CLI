@@ -7,7 +7,7 @@ CLI is a command-line interface tool written in Go for performing various operat
 You can find the project page here: [CLI Project on GitHub](https://github.com/aratij56/CLI)
 
 ## Features
-- Perform addition, subtraction, and other mathematical operations.
+- Perform addition, updation , status check etc 
 - Modular and extendable with Cobra CLI.
 
 ## How to Use
