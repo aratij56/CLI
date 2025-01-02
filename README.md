@@ -4,7 +4,7 @@ CLI is a command-line interface tool written in Go for performing various operat
 
 ## Project Page
 
-You can find the project page here: [CLI Project on GitHub](https://github.com/aratij56/CLI)
+You can find the project page here: [project URL](https://github.com/aratij56/CLI)
 
 ## Features
 - Perform addition, updation , status check etc 
